@@ -2,7 +2,8 @@
 
 # 🧠 OpenDream
 
-<img src="https://github.com/user-attachments/assets/c1698713-f697-4556-9151-2e0c3efb1bfd" width="220"/>
+<img width="472" height="466" alt="Screenshot 2026-03-10 174806" src="https://github.com/user-attachments/assets/d9280ccc-9bc8-43f2-b166-4459e2b16cf7" />
+
 
 <br>
 
