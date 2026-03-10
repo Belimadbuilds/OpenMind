@@ -1,142 +1,158 @@
-<div align="center">
+# OpenMind
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/d9280ccc-9bc8-43f2-b166-4459e2b16cf7" width="350">
+</p>
+
+<p align="center">
+
+![license](https://img.shields.io/badge/license-MIT-informational)
+![status](https://img.shields.io/badge/status-experimental-red)
+![architecture](https://img.shields.io/badge/architecture-hive--intelligence-black)
+![agents](https://img.shields.io/badge/agents-multi--agent-red)
+![reasoning](https://img.shields.io/badge/reasoning-collective-orange)
+![network](https://img.shields.io/badge/network-distributed-darkred)
+![memory](https://img.shields.io/badge/memory-shared-red)
+![consensus](https://img.shields.io/badge/consensus-engine-yellow)
+![autonomy](https://img.shields.io/badge/autonomy-autonomous-critical)
+![research](https://img.shields.io/badge/research-open-orange)
+
+</p>
+
+---
 
 # 🧠 OpenMind
 
-<img width="472" height="466" alt="Screenshot 2026-03-10 174806" src="https://github.com/user-attachments/assets/d9280ccc-9bc8-43f2-b166-4459e2b16cf7" />
+OpenMind is an experimental **collective AI intelligence framework** designed to combine the reasoning of multiple AI agents into a single unified system.
 
+Instead of relying on a single model, OpenMind creates a **hive intelligence network** where independent agents collaborate, debate, and merge reasoning to produce stronger decisions.
 
-<br>
-
-![status](https://img.shields.io/badge/status-experimental-purple)
-![ai](https://img.shields.io/badge/AI-OpenClaw-blueviolet)
-![interface](https://img.shields.io/badge/interface-neural--ai-blue)
-![architecture](https://img.shields.io/badge/architecture-cognitive--system-darkblue)
-![execution](https://img.shields.io/badge/execution-autonomous-black)
-![research](https://img.shields.io/badge/research-active-success)
-![system](https://img.shields.io/badge/system-neural--interface-orange)
-![license](https://img.shields.io/badge/license-MIT-informational)
-
-**OpenMind** is an experimental neural–AI interface concept designed to connect human cognitive signals with autonomous **OpenClaw agents**.
-
-</div>
+The system simulates a **distributed artificial mind**.
 
 ---
 
-# ⚡ Overview
+# ⚡ Core Concept
 
-OpenDream explores a new type of human-AI interaction:  
-a **cognitive coprocessor for the human brain**.
+Traditional AI systems rely on **single-model reasoning**.
 
-Instead of interacting with AI through keyboards or voice commands, OpenDream aims to interpret **intent-level neural signals** and route them directly to intelligent OpenClaw agents.
+OpenMind explores **collective intelligence**, where many agents work together as one cognitive system.
 
-```
-Neural Signals → OpenDream Interface → OpenClaw Agent → AI Reasoning → Output
-```
-
-The goal is to create a system where AI assists human thinking in real time.
+Each agent acts as a **node in a digital brain**, contributing signals that combine into a unified decision.
 
 ---
 
-# 🧠 Core Concept
-
-OpenMind is inspired by advances in brain-computer interfaces but focuses on **AI-assisted cognition** rather than motor control.
-
-The system investigates how neural intent signals could be interpreted and used to interact directly with AI systems.
-
-Potential capabilities include:
-
-- thought-assisted problem solving  
-- AI idea generation  
-- neural intent interpretation  
-- cognitive augmentation  
-- research acceleration  
-- creative concept visualization  
-
----
-
-# 🔬 Experimental Architecture
+# 🧠 Hive Intelligence Architecture
 
 ```
-┌──────────────────────────┐
-│   Human Neural Signals   │
-└─────────────┬────────────┘
-              │
-              ▼
-┌──────────────────────────┐
-│     OpenDream Layer      │
-│ Neural Pattern Interface │
-└─────────────┬────────────┘
-              │
-              ▼
-┌──────────────────────────┐
-│     OpenClaw Agents      │
-│ Reasoning + Processing   │
-└─────────────┬────────────┘
-              │
-              ▼
-┌──────────────────────────┐
-│   Cognitive Output Layer │
-│  Visualization / Data    │
-└──────────────────────────┘
+           Input Data
+               │
+               ▼
+      ┌─────────────────┐
+      │ Agent Network   │
+      │  (AI Hive Mind) │
+      └─────────────────┘
+               │
+               ▼
+       Consensus Engine
+   (debate / voting / weighting)
+               │
+               ▼
+        Unified Decision
 ```
 
 ---
 
-# 🧩 System Modules
+# 🤖 Agent Roles
 
-### DreamCore  
-Neural signal interpretation layer.
+OpenMind allows specialized agents to collaborate.
 
-### DreamLink  
-Interface connecting neural input to OpenClaw agents.
+| Agent | Role |
+|------|------|
+Research Agent | gathers information |
+Logic Agent | evaluates reasoning |
+Prediction Agent | forecasts outcomes |
+Critic Agent | challenges conclusions |
+Memory Agent | stores knowledge |
 
-### DreamForge  
-AI reasoning engine responsible for idea generation and analysis.
-
-### DreamVision  
-Visual layer responsible for presenting interpreted thoughts or concepts.
-
----
-
-# 🚀 Project Goals
-
-OpenDream is exploring several experimental research directions:
-
-- neural intent detection  
-- AI-assisted cognition  
-- human-AI collaborative thinking  
-- neural-to-AI communication models  
-- experimental cognitive computing systems  
+Agents exchange reasoning signals across the network.
 
 ---
 
-# 🧪 Development Status
+# ⚙️ Core Components
 
-OpenDream is currently in **early experimental development**.
-
-This repository represents the first concept prototype exploring how **OpenClaw-powered neural AI systems** could function.
+```
+openmind/
+│
+├ agents/
+│  ├ research_agent.py
+│  ├ logic_agent.py
+│  ├ prediction_agent.py
+│
+├ core/
+│  ├ hive_engine.py
+│  ├ consensus_engine.py
+│  ├ shared_memory.py
+│
+├ simulations/
+│  └ hive_test.py
+│
+├ docs/
+│  └ architecture.md
+│
+└ README.md
+```
 
 ---
 
-# 🌐 Repository Note
+# 🧬 Collective Reasoning Engine
 
-This GitHub account was **created specifically for the OpenDream project**, and this repository represents the first public concept release.
+OpenMind merges multiple reasoning strategies:
 
-Future repositories may include:
+• agent debate  
+• weighted voting  
+• signal aggregation  
+• shared memory  
+• collaborative reasoning loops  
 
-- neural signal interpretation experiments  
-- OpenClaw agent integrations  
-- cognitive interface simulations  
-- AI reasoning modules  
+This allows the system to simulate **emergent intelligence**.
 
 ---
 
-# 🔮 Vision
+# 🌐 Long-Term Vision
 
-The long-term vision of OpenDream is to explore a world where **AI systems act as cognitive partners**, helping humans think, solve problems, and create ideas more efficiently.
+OpenMind explores the possibility of a **distributed artificial mind** capable of:
+
+• collaborative problem solving  
+• autonomous reasoning  
+• evolving agent roles  
+• large-scale intelligence networks  
+
+---
+
+# 🚧 Development Status
+
+```
+STATUS: Experimental Research Framework
+```
+
+OpenMind is currently under early development.
+
+Future versions may explore:
+
+• agent evolution  
+• adaptive consensus systems  
+• distributed intelligence networks  
 
 ---
 
 # 📜 License
 
 MIT License
+
+---
+
+# ⚠️ Disclaimer
+
+This project is an **experimental research framework** exploring collaborative AI architectures.
+
+It is not intended for production environments.
