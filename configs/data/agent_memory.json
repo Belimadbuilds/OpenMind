@@ -1,0 +1,8 @@
+{
+  "agents": [
+    "research_agent",
+    "logic_agent",
+    "prediction_agent"
+  ],
+  "network": "collective"
+}
