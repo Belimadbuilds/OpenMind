@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/d9280ccc-9bc8-43f2-b166-4459e2b16cf7" width="350">
+<img width="413" height="408" alt="Screenshot 2026-03-11 181843" src="https://github.com/user-attachments/assets/67b20813-b3bd-4721-838d-94df0c2556d8" />
+
 </p>
 
 <h1 align="center">OpenMind</h1>
