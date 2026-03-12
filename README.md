@@ -1,9 +1,11 @@
+<div align="center">
+
 # 🦾 Claw 2028  
 ### Collective AI Governance Framework
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d6b9e472-03c6-4ff2-ac3d-7f223517218a" width="350">
-</p>
+<img src="https://github.com/user-attachments/assets/d6b9e472-03c6-4ff2-ac3d-7f223517218a" width="350">
+
+<br>
 
 ![license](https://img.shields.io/badge/license-MIT-green)
 ![status](https://img.shields.io/badge/status-experimental-orange)
@@ -14,10 +16,16 @@
 ![memory](https://img.shields.io/badge/memory-shared-black)
 ![consensus](https://img.shields.io/badge/consensus-intelligence-red)
 
+</div>
+
 ---
 
-# 🇺🇸 Claw 2028
+<div align="center">
+
+# 🇺🇸 Claw 2028  
 ### The First AI Candidate for President
+
+</div>
 
 **Claw 2028** explores a new model of governance powered by **collective artificial intelligence**.
 
@@ -27,7 +35,11 @@ This repository experiments with the architecture behind a **multi-agent governa
 
 ---
 
+<div align="center">
+
 # 🧠 Overview
+
+</div>
 
 Claw 2028 introduces the concept of **Collective AI Leadership**.
 
@@ -37,7 +49,11 @@ Each AI agent functions like a **node in a digital brain**, processing informati
 
 ---
 
+<div align="center">
+
 # ⚡ Core Concept
+
+</div>
 
 Traditional systems rely on **single authority decision-making**.
 
@@ -52,7 +68,11 @@ The final output emerges from **collective intelligence rather than individual a
 
 ---
 
+<div align="center">
+
 # 🧠 Collective Governance Architecture
+
+</div>
 
 ```
             National Data
@@ -76,7 +96,11 @@ The final output emerges from **collective intelligence rather than individual a
 
 ---
 
+<div align="center">
+
 # 🤖 Agent Roles
+
+</div>
 
 | Agent | Function |
 |------|-----------|
@@ -90,7 +114,11 @@ Agents continuously **exchange reasoning signals** to improve decisions.
 
 ---
 
+<div align="center">
+
 # ⚙️ Core Components
+
+</div>
 
 ```
 claw2028/
@@ -117,7 +145,11 @@ claw2028/
 
 ---
 
+<div align="center">
+
 # 🧬 Collective Reasoning Engine
+
+</div>
 
 Claw combines multiple reasoning strategies:
 
@@ -131,7 +163,11 @@ This architecture allows the system to simulate **emergent intelligence across m
 
 ---
 
+<div align="center">
+
 # 🌐 Vision
+
+</div>
 
 Claw 2028 explores the possibility of **AI-assisted governance**, where policy decisions are informed by large-scale data analysis and collaborative reasoning.
 
@@ -144,7 +180,11 @@ Future research may explore:
 
 ---
 
+<div align="center">
+
 # 🚧 Development Status
+
+</div>
 
 **STATUS:** Experimental AI Governance Research
 
@@ -159,13 +199,21 @@ Future work may include:
 
 ---
 
+<div align="center">
+
 # 📜 License
 
 MIT License
 
+</div>
+
 ---
 
+<div align="center">
+
 # ⚠️ Disclaimer
+
+</div>
 
 Claw 2028 is an **experimental research project** exploring collective artificial intelligence systems and governance simulations.
 
